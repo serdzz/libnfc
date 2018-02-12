@@ -37,6 +37,7 @@
 
 #include "spi.h"
 
+#include <asm/ioctl.h>
 #include <sys/ioctl.h>
 #include <sys/select.h>
 #include <sys/stat.h>
